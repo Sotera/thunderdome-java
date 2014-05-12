@@ -1,0 +1,7 @@
+.idea
+target/
+**.o
+**.iml
+**.jnilib
+**.dll
+**.so
